@@ -134,7 +134,7 @@
 						<suiteXmlFile>testNG.xml</suiteXmlFile>
 					</suiteXmlFiles> -->
 					<suiteXmlFiles>
-						<suiteXmlFile>${suiteXmlFile}</suiteXmlFile>
+						<!-- <suiteXmlFile>${suiteXmlFile}</suiteXmlFile> -->
 						<suiteXmlFile>src/main/resources/testng.xml</suiteXmlFile>
 					</suiteXmlFiles>
 				</configuration>
